@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: todo.svc
+---
+testFramework: junit
+sourceLanguage: java
